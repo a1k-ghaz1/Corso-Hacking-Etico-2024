@@ -4,9 +4,11 @@
 Inizio corso previsto per Inizio Settembre 2023 
 Rimanete aggiornati sui nostri social:
  
-Discord Offensive Security:  https://discord.gg/FEjgBMdAeA
-Twitter https://twitter.com/ModernNaval
-Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
+1. Discord Offensive Security:  https://discord.gg/FEjgBMdAeA
+2. Twitter https://twitter.com/ModernNaval
+3. Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
+
+
 
 STRUTTURA DEL CORSO:
 
@@ -21,6 +23,8 @@ STRUTTURA DEL CORSO:
 8. Subnetting: Interpretazione degli intervalli di rete 
 9. Subnetting: Reti e casi particolari
 10. Suggerimenti di subnetting e calcolo rapido dell'indirizzamento nelle reti
+
+
 
 RICONOSCIMENTO
 1. Nmap e le sue diverse modalità di scansione
@@ -40,6 +44,8 @@ RICONOSCIMENTO
 15. Google Dorks / Google Hacking (I 18 Dorks più utilizzati)
 16. Identificazione e verifica esterna della versione del sistema operativo
 
+
+
 CONFIGURAIONE DI LABORATORI LOCALI IN DOCKER
 1. Introduzione a Docker
 2. Installazione di Docker su Linux
@@ -50,6 +56,8 @@ CONFIGURAIONE DI LABORATORI LOCALI IN DOCKER
 7. Port Forwarding in Docker e utilizzo dei mount
 8. Distribuzione di macchine vulnerabili con Docker-Compose (1/2)
 9. Distribuzione di macchine vulnerabili con Docker-Compose (2/2)
+
+
 
 ENMERAZIONE DI SERVIZI COMUNI E GESTORI DI CONTENUTI
 1. Enumerazione del servizio FTP
@@ -63,6 +71,8 @@ ENMERAZIONE DI SERVIZI COMUNI E GESTORI DI CONTENUTI
 9. Enumerazione dei gestori di contenuti (CMS) – Magento
 10. Prendere appunti con Obsidian
 
+
+
 NOZIONI DI BASE SU ENUMERAZIONE E SFRUTTAMENTO 
 1. Introduzione allo sfruttamento delle vulnerabilità
 2. Reverse Shells, Bind Shells e Forward Shells
@@ -70,6 +80,8 @@ NOZIONI DI BASE SU ENUMERAZIONE E SFRUTTAMENTO
 4. Tipi di sfruttamento (manuale e automatizzato)
 5. Enumerazione del sistema
 6. Introduzione a Burp Suite
+
+
 
 OWASP TOP 10 E VULNERABILITA' WEB
 1. Iniezione SQL (SQLI)
@@ -110,6 +122,8 @@ OWASP TOP 10 E VULNERABILITA' WEB
 36. Python – Attacco di deserializzazione Pickle (DES-Pickle)
 37. GraphQL Introspezione, Mutazioni e IDOR
 
+
+
 TECNINCHE DI SCALATA DI PRIVILEGI
 1. Abuso dei privilegi a livello di Sudoers
 2. Abuso dei privilegi SUID
@@ -125,6 +139,8 @@ TECNINCHE DI SCALATA DI PRIVILEGI
 12. Hijacking della libreria di oggetti condivisi collegata dinamicamente
 13. Evasione Docker
 
+
+
 BUFFER OVERFLOW
 1. Introduzione al Buffer Overflow
 2. Creazione del nostro laboratorio di test e installazione di Immunity Debuger
@@ -137,6 +153,8 @@ BUFFER OVERFLOW
 9. Sfruttamento di un nuovo binario per rafforzare ciò che è stato appreso
 10 Funzionamento e creazione manuale di Shellcode
 
+
+
 Risoluzione delle macchine
 1. Risoluzione macchina #1 (Easy)
 2. Risoluzione macchina #2 (Medium)
@@ -144,10 +162,14 @@ Risoluzione delle macchine
 4. Risoluzione macchina #4 (Hard)
 5. Risoluzione macchina #5 (Insane)
 
+
+
 METARIALE AGGIUNTIVO
 1. Introduzione a Metasploit
 2. Introduzione a SQLMap
 3. Introduzione al Pivoting
+
+
 
 STESURA REPORT
 1. Creazione di un report professionale in LaTeX (1/2)
