@@ -1,8 +1,8 @@
-# H1 CORSO HACKING ETICO ITA 2023/2024 
-## H2 Valido per la preparazione alle certificazioni: eJPTv2, eCPPTv2, eWPT
+# CORSO HACKING ETICO ITA 2023/2024 
+## Valido per la preparazione alle certificazioni: eJPTv2, eCPPTv2, eWPT
 
-### H3 Inizio corso previsto per Inizio Settembre 2023 
-### H3 Rimanete aggiornati sui nostri social:
+### Inizio corso previsto per Inizio Settembre 2023 
+### Rimanete aggiornati sui nostri social:
  
 1. Discord Offensive Security:  https://discord.gg/FEjgBMdAeA
 2. Twitter https://twitter.com/ModernNaval
@@ -10,9 +10,9 @@
 
 
 
-# H1 STRUTTURA DEL CORSO:
+STRUTTURA DEL CORSO:
 
-# H1 CONCETTI DI BASE
+H1 CONCETTI DI BASE
 1. Indirizzi IP (IPV4 e IPV6)
 2. Indirizzi MAC (OUI e NIC)
 3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake
@@ -26,7 +26,7 @@
 
 
 
-# H1 RICONOSCIMENTO
+H1 RICONOSCIMENTO
 1. Nmap e le sue diverse modalità di scansione
 2. Tecniche di evasione del firewall (MTU, Data Length, Source Port, Decoy, ecc.)
 3. Utilizzo di script e categorie in nmap per applicare il riconoscimento
@@ -46,7 +46,7 @@
 
 
 
-# H1 CONFIGURAIONE DI LABORATORI LOCALI IN DOCKER
+H1 CONFIGURAIONE DI LABORATORI LOCALI IN DOCKER
 1. Introduzione a Docker
 2. Installazione di Docker su Linux
 3. Definizione della struttura di base del Dockerfile
@@ -59,7 +59,7 @@
 
 
 
-# H1 ENMERAZIONE DI SERVIZI COMUNI E GESTORI DI CONTENUTI
+H1 ENMERAZIONE DI SERVIZI COMUNI E GESTORI DI CONTENUTI
 1. Enumerazione del servizio FTP
 2. Enumerazione del servizio SSH
 3. Enumerazione dei servizi HTTP e HTTPS
@@ -73,7 +73,7 @@
 
 
 
-# H1 NOZIONI DI BASE SU ENUMERAZIONE E SFRUTTAMENTO 
+H1 NOZIONI DI BASE SU ENUMERAZIONE E SFRUTTAMENTO 
 1. Introduzione allo sfruttamento delle vulnerabilità
 2. Reverse Shells, Bind Shells e Forward Shells
 3. Tipi di payload (organizzati e non organizzati)
@@ -83,7 +83,7 @@
 
 
 
-# H1 OWASP TOP 10 E VULNERABILITA' WEB
+H1 OWASP TOP 10 E VULNERABILITA' WEB
 1. Iniezione SQL (SQLI)
 2. Cross-Site Scripting (XSS) [1/2]
 3. Cross-Site Scripting (XSS) [2/2]
@@ -124,7 +124,7 @@
 
 
 
-# H1 TECNINCHE DI SCALATA DI PRIVILEGI
+H1 TECNINCHE DI SCALATA DI PRIVILEGI
 1. Abuso dei privilegi a livello di Sudoers
 2. Abuso dei privilegi SUID
 3. Rilevamento e sfruttamento delle attività Cron
@@ -141,7 +141,7 @@
 
 
 
-# H1 BUFFER OVERFLOW
+H1 BUFFER OVERFLOW
 1. Introduzione al Buffer Overflow
 2. Creazione del nostro laboratorio di test e installazione di Immunity Debuger
 3. Fase iniziale di Fuzzing e presa di controllo del registro EIP
@@ -155,7 +155,7 @@
 
 
 
-# H1 Risoluzione delle macchine
+H1 Risoluzione delle macchine
 1. Risoluzione macchina #1 (Easy)
 2. Risoluzione macchina #2 (Medium)
 3. Risoluzione macchina #3 (Hard)
@@ -164,14 +164,14 @@
 
 
 
-# H1 STRUMENTI AUTOMATIZZATI
+H1 STRUMENTI AUTOMATIZZATI
 1. Introduzione a Metasploit
 2. Introduzione a SQLMap
 3. Introduzione al Pivoting
 
 
 
-# H1 STESURA REPORT
+H1 STESURA REPORT
 1. Creazione di un report professionale in LaTeX (1/2)
 2. Creazione di un report professionale in LaTeX (2/2)
 
