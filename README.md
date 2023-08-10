@@ -4,8 +4,8 @@
 ### Inizio corso previsto per Inizio Settembre 2023 
 ### Rimanete aggiornati sui nostri social:
  
-1. Discord Offensive Security:  https://discord.gg/FEjgBMdAeA
-2. Twitter https://twitter.com/ModernNaval
+1. Discord: https://discord.gg/FEjgBMdAeA
+2. Twitter: https://twitter.com/ModernNaval
 3. Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
 
 
