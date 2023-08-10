@@ -10,17 +10,17 @@ Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
 
 STRUTTURA DEL CORSO:
 
-CONCETTI DI BASE
-1 Indirizzi IP (IPV4 e IPV6)
-2 Indirizzi MAC (OUI e NIC)
-3 Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake
-4 Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli
-5 Subnetting: cos'è una maschera di rete e come viene interpretata
-6 Subnetting: CIDRs e calcolo totale degli hosts 
-7 Subnetting: maschere di sottorete, tipi di classe e interpretazione dei prefissi di rete
-8 Subnetting: Interpretazione degli intervalli di rete 
-9 Subnetting: Reti e casi particolari
-10 Suggerimenti di subnetting e calcolo rapido dell'indirizzamento nelle reti
+#CONCETTI DI BASE
+1. Indirizzi IP (IPV4 e IPV6)
+2. Indirizzi MAC (OUI e NIC)
+3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake
+4. Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli
+5. Subnetting: cos'è una maschera di rete e come viene interpretata
+6. Subnetting: CIDRs e calcolo totale degli hosts 
+7. Subnetting: maschere di sottorete, tipi di classe e interpretazione dei prefissi di rete
+8. Subnetting: Interpretazione degli intervalli di rete 
+9. Subnetting: Reti e casi particolari
+10. Suggerimenti di subnetting e calcolo rapido dell'indirizzamento nelle reti
 
 RICONOSCIMENTO
 1 Nmap e le sue diverse modalità di scansione
