@@ -48,7 +48,7 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# CONFIGURAIONE DI LABORATORI LOCALI IN DOCKER
+# CONFIGURAZIONE DI LABORATORI LOCALI IN DOCKER
 1. Introduzione a Docker
 2. Installazione di Docker su Linux
 3. Definizione della struttura di base del Dockerfile
