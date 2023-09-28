@@ -1,5 +1,6 @@
 # CORSO HACKING ETICO ITA 2023/2024 
 ## Valido per la preparazione alle certificazioni: eJPTv2, eCPPTv2, eWPT
+VIDEO https://youtu.be/L90xYiqqjBI?si=EvmjFGW2zNBdnDog
 
 ---
 
