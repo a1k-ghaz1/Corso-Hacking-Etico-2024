@@ -1,10 +1,8 @@
 # CORSO HACKING ETICO ITA 2023/2024 
 ## Valido per la preparazione alle certificazioni: eJPTv2, eCPPTv2, eWPT
-VIDEO https://youtu.be/L90xYiqqjBI?si=EvmjFGW2zNBdnDog
+INTRODUZIONE https://youtu.be/io5heKn6VwU?si=X7XywAeShp3tGEl2
 
 ---
-
-### Inizio corso previsto per Inizio Settembre/Ottobre 2023 
 
 ### Rimanete aggiornati sui nostri social:
 1. Discord: https://discord.gg/FEjgBMdAeA
@@ -16,9 +14,9 @@ VIDEO https://youtu.be/L90xYiqqjBI?si=EvmjFGW2zNBdnDog
 STRUTTURA DEL CORSO:
 
 # CONCETTI DI BASE
-1. Indirizzi IP (IPV4 e IPV6)
-2. Indirizzi MAC (OUI e NIC)
-3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake
+1. Indirizzi IP (IPV4 e IPV6) https://youtu.be/Yl9WfvqAHbM?si=oMEeoDW5USNGc4wd
+2. Indirizzi MAC (OUI e NIC) https://youtu.be/Yl9WfvqAHbM?si=NzktguXzA6ba-WPy
+3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake https://youtu.be/BB1o5TxJcoA?si=8GvNiLa3TwkmACJf
 4. Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli
 5. Subnetting: cos'è una maschera di rete e come viene interpretata
 6. Subnetting: CIDRs e calcolo totale degli hosts 
