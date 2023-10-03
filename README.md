@@ -17,7 +17,7 @@ STRUTTURA DEL CORSO:
 1. Indirizzi IP (IPV4 e IPV6) https://youtu.be/Yl9WfvqAHbM?si=oMEeoDW5USNGc4wd
 2. Indirizzi MAC (OUI e NIC) https://youtu.be/Yl9WfvqAHbM?si=NzktguXzA6ba-WPy
 3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake https://youtu.be/BB1o5TxJcoA?si=8GvNiLa3TwkmACJf
-4. Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli
+4. Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli https://youtu.be/WeEkNyrKrZc 
 5. Subnetting: cos'è una maschera di rete e come viene interpretata
 6. Subnetting: CIDRs e calcolo totale degli hosts 
 7. Subnetting: maschere di sottorete, tipi di classe e interpretazione dei prefissi di rete
