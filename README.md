@@ -18,12 +18,8 @@ STRUTTURA DEL CORSO:
 2. Indirizzi MAC (OUI e NIC) https://youtu.be/Yl9WfvqAHbM?si=NzktguXzA6ba-WPy
 3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake https://youtu.be/BB1o5TxJcoA?si=8GvNiLa3TwkmACJf
 4. Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli https://youtu.be/WeEkNyrKrZc 
-5. Subnetting: cos'è una maschera di rete e come viene interpretata
-6. Subnetting: CIDRs e calcolo totale degli hosts 
-7. Subnetting: maschere di sottorete, tipi di classe e interpretazione dei prefissi di rete
-8. Subnetting: Interpretazione degli intervalli di rete 
-9. Subnetting: Reti e casi particolari
-10. Suggerimenti di subnetting e calcolo rapido dell'indirizzamento nelle reti
+5. Subnetting: cos'è una maschera di rete e come viene interpretata, CIDRs e calcolo hosts, tipi di classe e interpretazione dei prefissi di rete https://youtu.be/f_vWIMeQid0
+6. Suggerimenti di subnetting e calcolo rapido dell'indirizzamento nelle reti
 
 ---
 
