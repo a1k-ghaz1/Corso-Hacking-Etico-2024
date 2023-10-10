@@ -19,7 +19,7 @@ STRUTTURA DEL CORSO:
 3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake https://youtu.be/BB1o5TxJcoA?si=8GvNiLa3TwkmACJf
 4. Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli https://youtu.be/WeEkNyrKrZc 
 5. Subnetting: cos'è una maschera di rete e come viene interpretata, CIDRs e calcolo hosts, tipi di classe e interpretazione dei prefissi di rete https://youtu.be/f_vWIMeQid0
-6. Suggerimenti di subnetting e calcolo rapido dell'indirizzamento nelle reti
+6. Subnetting: calcolo rapido dell'indirizzamento nelle reti https://youtu.be/H2exPjYeUhM
 
 ---
 
