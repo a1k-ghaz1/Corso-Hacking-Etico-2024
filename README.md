@@ -25,7 +25,7 @@ STRUTTURA DEL CORSO:
 
 # RICONOSCIMENTO
 7. Nmap e le sue diverse modalità di scansione https://youtu.be/sYwLoexKi-Q?si=igzkWUQd2ztqAUI7
-2. Tecniche di evasione del firewall (MTU, Data Length, Source Port, Decoy, ecc.)
+2. Tecniche di evasione del firewall (MTU, Data Length, Source Port, Decoy, ecc.) https://youtu.be/p_oRY2Bl7yo
 3. Utilizzo di script e categorie in nmap per applicare il riconoscimento
 4. Creare i propri script Lua per nmap
 5. Alternative all'enumerazione delle porte utilizzando descrittori di file
