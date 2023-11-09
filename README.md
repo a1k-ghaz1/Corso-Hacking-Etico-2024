@@ -30,9 +30,8 @@ STRUTTURA DEL CORSO:
 4. Creare i propri script Lua per nmap https://youtu.be/2rKK0rPkvQM
 5. Alternative all'enumerazione delle porte utilizzando descrittori di file https://youtu.be/o2afi3isocU?si=bSnAhAPX0RdyQ15R
 6. Scoperta dei computer nella rete locale (ARP e ICMP) https://youtu.be/fuSdtNeg3pQ?si=pVVdbtbLYLLwFlTX
-7. Ambiente Reale Aziendale (Solo abbonati Youtube)
-8. Scoprire account di posta elettronica
-9. Riconoscimento delle immagini
+7. Ambiente Reale Aziendale https://youtu.be/m9kdmpcADqA
+8. Scoprire account di posta elettronica e Riconoscimento delle immagini https://youtu.be/WBOZWxKnXBY?si=rFpH734pT3mL7AsO
 10. Enumerazione dei sottodomini
 11. Credenziali e violazioni della sicurezza
 12. Identificazione delle tecnologie su una pagina web
