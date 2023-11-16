@@ -30,11 +30,11 @@ STRUTTURA DEL CORSO:
 4. Creare i propri script Lua per nmap https://youtu.be/2rKK0rPkvQM
 5. Alternative all'enumerazione delle porte utilizzando descrittori di file https://youtu.be/o2afi3isocU?si=bSnAhAPX0RdyQ15R
 6. Scoperta dei computer nella rete locale (ARP e ICMP) https://youtu.be/fuSdtNeg3pQ?si=pVVdbtbLYLLwFlTX
-7. Ambiente Reale Aziendale https://youtu.be/m9kdmpcADqA
+7. Ambiente Reale Aziendale (solo abbonati) https://youtu.be/m9kdmpcADqA
 8. Scoprire account di posta elettronica e Riconoscimento delle immagini https://youtu.be/WBOZWxKnXBY?si=rFpH734pT3mL7AsO
-10. Enumerazione dei sottodomini
-11. Credenziali e violazioni della sicurezza
-12. Identificazione delle tecnologie su una pagina web
+10. Enumerazione dei sottodomini https://youtu.be/4OaQ2eiLHvk?si=ZfhKWyD_YAFjWK8z
+11. Credenziali e violazioni della sicurezza (solo abbonati)
+12. Identificazione delle tecnologie su una pagina web https://youtu.be/5QBzAYPN8lM?si=kLs_hAcSRfpZ5HzD
 13. Fuzzing ed enumerazione di file su un server web (1/2)
 14. Fuzzing ed enumerazione di file su un server web (2/2)
 15. Google Dorks / Google Hacking (I 18 Dorks più utilizzati)
