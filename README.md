@@ -35,10 +35,10 @@ STRUTTURA DEL CORSO:
 10. Enumerazione dei sottodomini https://youtu.be/4OaQ2eiLHvk?si=ZfhKWyD_YAFjWK8z
 11. Credenziali e violazioni della sicurezza (solo abbonati) https://youtu.be/cvTrM_WkRxw
 12. Identificazione delle tecnologie su una pagina web https://youtu.be/5QBzAYPN8lM?si=kLs_hAcSRfpZ5HzD
-13. Fuzzing ed enumerazione di file su un server web (1/2)
-14. Fuzzing ed enumerazione di file su un server web (2/2)
-15. Google Dorks / Google Hacking (I 18 Dorks più utilizzati)
-16. Identificazione e verifica esterna della versione del sistema operativo
+13. Fuzzing con Wfuzz e Gobuster (1/2)
+14. Fuzzing con Burpsuite (2/2)
+15. Google Dorks / Google Hacking 
+16. Identificazione e verifica della versione del S.O.
 
 ---
 
