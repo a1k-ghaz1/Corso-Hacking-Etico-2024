@@ -8,6 +8,7 @@ INTRODUZIONE https://youtu.be/io5heKn6VwU?si=X7XywAeShp3tGEl2
 1. Discord: https://discord.gg/FEjgBMdAeA
 2. Twitter: https://twitter.com/ModernNaval
 3. Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
+4. https://www.twitch.tv/roby7979
 
 ---
 
@@ -35,7 +36,7 @@ STRUTTURA DEL CORSO:
 10. Enumerazione dei sottodomini https://youtu.be/4OaQ2eiLHvk?si=ZfhKWyD_YAFjWK8z
 11. Credenziali e violazioni della sicurezza (solo abbonati) https://youtu.be/cvTrM_WkRxw
 12. Identificazione delle tecnologie su una pagina web https://youtu.be/5QBzAYPN8lM?si=kLs_hAcSRfpZ5HzD
-13. Fuzzing con Wfuzz e Gobuster 
+13. Fuzzing con Wfuzz e Gobuster https://youtu.be/Fif1vhl8wvg?si=DX3Z4q6pTaDlZdyT
 14. Fuzzing con Burpsuite 
 15. Google Dorks e Google Hacking 
 16. Identificazione e verifica della versione del S.O.
