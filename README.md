@@ -37,9 +37,8 @@ STRUTTURA DEL CORSO:
 11. Credenziali e violazioni della sicurezza (solo abbonati) https://youtu.be/cvTrM_WkRxw
 12. Identificazione delle tecnologie su una pagina web https://youtu.be/5QBzAYPN8lM?si=kLs_hAcSRfpZ5HzD
 13. Fuzzing con Wfuzz e Gobuster https://youtu.be/Fif1vhl8wvg?si=DX3Z4q6pTaDlZdyT
-14. Fuzzing con Burpsuite 
-15. Google Dorks e Google Hacking 
-16. Identificazione e verifica della versione del S.O.
+14. Fuzzing con Burpsuite https://youtu.be/b1Iau3Bgu4k?si=j2ZYVE3FUQpB9pfC
+15. Google Dorks e Google Hacking (solo abbonati) https://youtu.be/DaHfj_RvOGA
 
 ---
 
