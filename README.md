@@ -43,7 +43,7 @@ STRUTTURA DEL CORSO:
 ---
 
 # CONFIGURAZIONE DI LABORATORI LOCALI IN DOCKER
-21. Docker: Installazione, Dockerfile, Creazione e distribuzione di un contenitore
+21. Docker: Installazione, Dockerfile, Creazione e distribuzione di un contenitore https://youtu.be/IxjCRhUktwo?si=50EsfB_p0NI8Fske
 22. Comandi comuni, Port Forwarding e mount nei contenitori
 23. Distribuzione di macchine vulnerabili con Docker-Compose (1/2)
 24. Distribuzione di macchine vulnerabili con Docker-Compose (2/2)
