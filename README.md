@@ -51,67 +51,67 @@ STRUTTURA DEL CORSO:
 ---
 
 # ENUMERAZIONE DI SERVIZI COMUNI E GESTORI DI CONTENUTI
-1. Enumerazione del servizio FTP
-2. Enumerazione del servizio SSH
-3. Enumerazione dei servizi HTTP e HTTPS
-4. Enumerazione dei servizi SMB
-5. Elenco dei sistemi di gestione dei contenuti (CMS) – WordPress (1/2)
-6. Elenco dei sistemi di gestione dei contenuti (CMS) – WordPress (2/2)
-7. Elenco dei sistemi di gestione dei contenuti (CMS) – Joomla
-8. Enumerazione dei gestori di contenuti (CMS) – Drupal
-9. Enumerazione dei gestori di contenuti (CMS) – Magento
-10. Prendere appunti con Obsidian
+25. Enumerazione del servizio FTP
+26. Enumerazione del servizio SSH
+27. Enumerazione dei servizi HTTP e HTTPS
+28. Enumerazione dei servizi SMB
+29. Elenco dei sistemi di gestione dei contenuti (CMS) – WordPress (1/2)
+30. Elenco dei sistemi di gestione dei contenuti (CMS) – WordPress (2/2)
+31. Elenco dei sistemi di gestione dei contenuti (CMS) – Joomla
+32. Enumerazione dei gestori di contenuti (CMS) – Drupal
+33. Enumerazione dei gestori di contenuti (CMS) – Magento
+34. Prendere appunti con Obsidian
 
 ---
 
 # NOZIONI DI BASE SU ENUMERAZIONE E SFRUTTAMENTO 
-1. Introduzione allo sfruttamento delle vulnerabilità
-2. Reverse Shells, Bind Shells e Forward Shells
-3. Tipi di payload (organizzati e non organizzati)
-4. Tipi di sfruttamento (manuale e automatizzato)
-5. Enumerazione del sistema
-6. Introduzione a Burp Suite
+35. Introduzione allo sfruttamento delle vulnerabilità
+36. Reverse Shells, Bind Shells e Forward Shells
+37. Tipi di payload (organizzati e non organizzati)
+38. Tipi di sfruttamento (manuale e automatizzato)
+39. Enumerazione del sistema
+40. Introduzione a Burp Suite
 
 ---
 
 # OWASP TOP 10 E VULNERABILITA' WEB
-1. Iniezione SQL (SQLI)
-2. Cross-Site Scripting (XSS) [1/2]
-3. Cross-Site Scripting (XSS) [2/2]
-4. Iniezione di entità esterne XML (XXE)
-5. Local File Inclusion (LFI)
-6. Remote File Inclusion (RFI)
-7. Log Poisoning (LFI -> RCE)
-8. Falsificazione di richieste tra siti (CSRF)
-9. Falsificazione di richieste lato server (SSRF)
-10. Iniezione di modelli lato server (SSTI)
-11. Iniezione di modelli lato client (CSTI)
-12. Imbottitura Oracle Attack
-13. Tipo Attacco di giocoleria
-14. Iniezioni NoSQL
-15. Iniezioni LDAP
-16. Attacchi di deserializzazione
-17. Iniezioni di LaTeX
-18. Abuso dell'API
-19. Abuso di caricamento di file
-20. Prototipo Inquinamento
-21. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer)
-22. Attacchi di assegnazione di massa / associazione di parametri
-23. Apri Reindirizzamento
-24. Enumerazione e sfruttamento WebDAV
-25. Enumerazione e sfruttamento dei proxy SQUID
-26. Attacco Shell Shock
-27. Iniezioni di XPath
-28. Riferimenti diretti a oggetti non sicuri (IDOR)
-29. Condivisione delle risorse tra le origini (CORS)
-30. Attacco SQL Truncation
-31. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione
-32. Enumerazione e sfruttamento di Json Web Tokens (JWT)
-33. Condizioni di gara (Race Condition)
-34. Iniezioni di CSS (CSSI)
-35. Python – Attacco di deserializzazione Yaml (DES-Yaml)
-36. Python – Attacco di deserializzazione Pickle (DES-Pickle)
-37. GraphQL Introspezione, Mutazioni e IDOR
+41. Iniezione SQL (SQLI)
+42. Cross-Site Scripting (XSS) [1/2]
+43. Cross-Site Scripting (XSS) [2/2]
+44. Iniezione di entità esterne XML (XXE)
+45. Local File Inclusion (LFI)
+46. Remote File Inclusion (RFI)
+47. Log Poisoning (LFI -> RCE)
+48. Falsificazione di richieste tra siti (CSRF)
+49. Falsificazione di richieste lato server (SSRF)
+50. Iniezione di modelli lato server (SSTI)
+51. Iniezione di modelli lato client (CSTI)
+52. Imbottitura Oracle Attack
+53. Tipo Attacco di giocoleria
+54. Iniezioni NoSQL
+55. Iniezioni LDAP
+56. Attacchi di deserializzazione
+57. Iniezioni di LaTeX
+58. Abuso dell'API
+59. Abuso di caricamento di file
+60. Prototipo Inquinamento
+61. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer)
+62. Attacchi di assegnazione di massa / associazione di parametri
+63. Apri Reindirizzamento
+64. Enumerazione e sfruttamento WebDAV
+65. Enumerazione e sfruttamento dei proxy SQUID
+66. Attacco Shell Shock
+67. Iniezioni di XPath
+68. Riferimenti diretti a oggetti non sicuri (IDOR)
+69. Condivisione delle risorse tra le origini (CORS)
+70. Attacco SQL Truncation
+71. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione
+72. Enumerazione e sfruttamento di Json Web Tokens (JWT)
+73. Condizioni di gara (Race Condition)
+74. Iniezioni di CSS (CSSI)
+75. Python – Attacco di deserializzazione Yaml (DES-Yaml)
+76. Python – Attacco di deserializzazione Pickle (DES-Pickle)
+77. GraphQL Introspezione, Mutazioni e IDOR
 
 ---
 
