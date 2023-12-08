@@ -46,7 +46,7 @@ STRUTTURA DEL CORSO:
 21. Docker: Installazione, Dockerfile, Creazione e distribuzione di un contenitore https://youtu.be/IxjCRhUktwo?si=50EsfB_p0NI8Fske
 22. Comandi comuni, Port Forwarding e mount nei contenitori https://youtu.be/nAtPNrFJjbE?si=CwNhl_zr-aA0HlrV
 23. Distribuzione di macchine vulnerabili con Docker-Compose Kibana
-24. Distribuzione di macchine vulnerabili con Docker-Compose ImageMagick
+24. Distribuzione di macchine vulnerabili con Docker-Compose ImageMagick (solo abbonati) https://youtu.be/UdN7B9ac3hQ
 
 ---
 
