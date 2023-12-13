@@ -8,7 +8,7 @@ INTRODUZIONE https://youtu.be/io5heKn6VwU?si=X7XywAeShp3tGEl2
 1. Discord: https://discord.gg/FEjgBMdAeA
 2. Twitter: https://twitter.com/ModernNaval
 3. Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
-4. https://www.twitch.tv/roby7979
+4. Twitch: https://www.twitch.tv/roby7979
 
 ---
 
