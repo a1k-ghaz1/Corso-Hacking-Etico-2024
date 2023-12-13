@@ -51,10 +51,10 @@ STRUTTURA DEL CORSO:
 ---
 
 # ENUMERAZIONE DI SERVIZI COMUNI E GESTORI DI CONTENUTI
-25. Enumerazione del servizio FTP
-26. Enumerazione del servizio SSH
-27. Enumerazione dei servizi HTTP e HTTPS
-28. Enumerazione dei servizi SMB
+25. Enumerazione del servizio FTP https://youtu.be/C7I8cdHhl6E
+26. Enumerazione del servizio SSH https://youtu.be/RO-4mf-SkGA
+27. Enumerazione dei servizi HTTP e HTTPS https://youtu.be/aTYWNTD964c
+28. Enumerazione dei servizi SMB https://youtu.be/8xmKqxf7QcQ
 29. Elenco dei sistemi di gestione dei contenuti (CMS) – WordPress (1/2)
 30. Elenco dei sistemi di gestione dei contenuti (CMS) – WordPress (2/2)
 31. Elenco dei sistemi di gestione dei contenuti (CMS) – Joomla
