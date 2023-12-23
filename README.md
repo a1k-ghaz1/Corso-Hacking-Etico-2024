@@ -144,7 +144,7 @@ STRUTTURA DEL CORSO:
 
 ---
 
-# Risoluzione delle macchine
+# RISOLUZIONE MACCHINE
 1. Risoluzione macchina #1 (Easy)
 2. Risoluzione macchina #2 (Medium)
 3. Risoluzione macchina #3 (Hard)
