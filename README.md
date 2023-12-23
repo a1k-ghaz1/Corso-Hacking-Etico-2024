@@ -75,8 +75,7 @@ STRUTTURA DEL CORSO:
 
 # OWASP TOP 10 E VULNERABILITA' WEB
 41. Iniezione SQL (SQLI)
-42. Cross-Site Scripting (XSS) [1/2]
-43. Cross-Site Scripting (XSS) [2/2]
+42. Cross-Site Scripting (XSS) 
 44. Iniezione di entità esterne XML (XXE)
 45. Local File Inclusion (LFI)
 46. Remote File Inclusion (RFI)
