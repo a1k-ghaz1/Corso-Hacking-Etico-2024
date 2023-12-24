@@ -31,10 +31,10 @@ STRUTTURA DEL CORSO:
 4. Creare i propri script Lua per nmap https://youtu.be/2rKK0rPkvQM
 5. Alternative all'enumerazione delle porte utilizzando descrittori di file https://youtu.be/o2afi3isocU?si=bSnAhAPX0RdyQ15R
 6. Scoperta dei computer nella rete locale (ARP e ICMP) https://youtu.be/fuSdtNeg3pQ?si=pVVdbtbLYLLwFlTX
-7. Ambiente Reale Aziendale (solo abbonati) https://youtu.be/m9kdmpcADqA
+7. Ambiente Reale Aziendale https://youtu.be/m9kdmpcADqA
 8. Scoprire account di posta elettronica e Riconoscimento delle immagini https://youtu.be/WBOZWxKnXBY?si=rFpH734pT3mL7AsO
 10. Enumerazione dei sottodomini https://youtu.be/4OaQ2eiLHvk?si=ZfhKWyD_YAFjWK8z
-11. Credenziali e violazioni della sicurezza (solo abbonati) https://youtu.be/cvTrM_WkRxw
+11. Credenziali e violazioni della sicurezza https://youtu.be/cvTrM_WkRxw
 12. Identificazione delle tecnologie su una pagina web https://youtu.be/5QBzAYPN8lM?si=kLs_hAcSRfpZ5HzD
 13. Fuzzing con Wfuzz e Gobuster https://youtu.be/Fif1vhl8wvg?si=DX3Z4q6pTaDlZdyT
 14. Fuzzing con Burpsuite https://youtu.be/b1Iau3Bgu4k?si=j2ZYVE3FUQpB9pfC
@@ -46,7 +46,7 @@ STRUTTURA DEL CORSO:
 21. Docker: Installazione, Dockerfile, Creazione e distribuzione di un contenitore https://youtu.be/IxjCRhUktwo?si=50EsfB_p0NI8Fske
 22. Comandi comuni, Port Forwarding e mount nei contenitori https://youtu.be/nAtPNrFJjbE?si=CwNhl_zr-aA0HlrV
 23. Distribuzione di macchine vulnerabili con Docker-Compose Kibana https://youtu.be/IFHTiE9Hybo?si=u-1e41eITCwiABie
-24. Distribuzione di macchine vulnerabili con Docker-Compose ImageMagick (solo abbonati) https://youtu.be/UdN7B9ac3hQ
+24. Distribuzione di macchine vulnerabili con Docker-Compose ImageMagick https://youtu.be/UdN7B9ac3hQ
 
 ---
 
