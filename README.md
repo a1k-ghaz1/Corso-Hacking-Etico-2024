@@ -1,5 +1,5 @@
 # CORSO HACKING ETICO ITA 2024 
-[https://imgur.com/tszTrhW]
+![https://imgur.com/tszTrhW]
 ## Valido per la preparazione alle certificazioni: eJPTv2 - eCPPTv2 - eWPT
 [INTRODUZIONE AL CORSO HACKING ETICO](https://youtu.be/io5heKn6VwU?si=X7XywAeShp3tGEl2)
 
