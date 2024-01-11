@@ -5,10 +5,10 @@
 ---
 
 ### Rimanete aggiornati sui nostri social:
-1. [Discord Offensive Security Italia(https://discord.gg/FEjgBMdAeA)
-2. [Twitter](https://twitter.com/ModernNaval)
-3. [Canale Youtube](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ)
-4. [Canale Twitch](https://www.twitch.tv/roby7979)
+1. [Discord Offensive Security Italia](https://discord.gg/FEjgBMdAeA)
+2. [Twitter Roby7979](https://twitter.com/ModernNaval)
+3. [Canale Youtube Roby7979](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ)
+4. [Canale Twitch Roby7979](https://www.twitch.tv/roby7979)
 
 ---
 
