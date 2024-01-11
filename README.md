@@ -1,14 +1,14 @@
 # CORSO HACKING ETICO ITA 2024 
 ## Valido per la preparazione alle certificazioni: eJPTv2 - eCPPTv2 - eWPT
-[INTRODUZIONE](https://youtu.be/io5heKn6VwU?si=X7XywAeShp3tGEl2)
+[INTRODUZIONE AL CORSO HACKING ETICO](https://youtu.be/io5heKn6VwU?si=X7XywAeShp3tGEl2)
 
 ---
 
 ### Rimanete aggiornati sui nostri social:
-1. Discord: https://discord.gg/FEjgBMdAeA
-2. Twitter: https://twitter.com/ModernNaval
-3. Youtube: https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ
-4. Twitch: https://www.twitch.tv/roby7979
+1. [Discord Offensive Security Italia(https://discord.gg/FEjgBMdAeA)
+2. [Twitter](https://twitter.com/ModernNaval)
+3. [Canale Youtube](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ)
+4. [Canale Twitch](https://www.twitch.tv/roby7979)
 
 ---
 
