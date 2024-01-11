@@ -57,10 +57,10 @@ STRUTTURA DEL CORSO:
 28. Enumerazione dei servizi SMB https://youtu.be/8xmKqxf7QcQ
 29. (CMS) – WordPress Enumerazione https://youtu.be/wxk6bqRteuM?si=rC_UsatZS2OSiOlc
 30. (CMS) – WordPress Explotazione Manuale https://youtu.be/fWiZFS2ughc?si=7Qt1UMiDrdA_BL_a
-31. Elenco dei sistemi di gestione dei contenuti (CMS) – Joomla
-32. Enumerazione dei gestori di contenuti (CMS) – Drupal
-33. Enumerazione dei gestori di contenuti (CMS) – Magento
-34. Prendere appunti con Obsidian
+31. (CMS) – Joomla Enumerazione
+32. (CMS) – Drupal Enumerazione
+33. (CMS) – Magento Enumerazione
+34. Obsidian prendere appunti
 
 ---
 
