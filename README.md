@@ -15,12 +15,12 @@
 STRUTTURA DEL CORSO:
 
 # CONCETTI DI BASE
-1. Indirizzi IP (IPV4 e IPV6) https://youtu.be/Yl9WfvqAHbM?si=oMEeoDW5USNGc4wd
-2. Indirizzi MAC (OUI e NIC) https://youtu.be/Yl9WfvqAHbM?si=NzktguXzA6ba-WPy
-3. Protocolli comuni (UDP, TCP) e il famoso Three-Way Handshake https://youtu.be/BB1o5TxJcoA?si=8GvNiLa3TwkmACJf
-4. Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli https://youtu.be/WeEkNyrKrZc 
-5. Subnetting: cos'è una maschera di rete e come viene interpretata, CIDRs e calcolo hosts, tipi di classe e interpretazione dei prefissi di rete https://youtu.be/f_vWIMeQid0
-6. Subnetting: calcolo rapido dell'indirizzamento nelle reti https://youtu.be/H2exPjYeUhM
+1. [Cosa e' un indirizzo IP(IPV4 e IPV6)](https://youtu.be/Yl9WfvqAHbM?si=oMEeoDW5USNGc4wd)
+2. [Cosa sono gli Indirizzi MAC (OUI e NIC)](https://youtu.be/Yl9WfvqAHbM?si=NzktguXzA6ba-WPy)
+3. [I Protocolli piu' comuni (UDP, TCP) e il famoso Three-Way Handshake](https://youtu.be/BB1o5TxJcoA?si=8GvNiLa3TwkmACJf)
+4. [Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli](https://youtu.be/WeEkNyrKrZc) 
+5. [Subnetting: cos'è una maschera di rete e come viene interpretata, CIDRs e calcolo hosts, tipi di classe e interpretazione dei prefissi di rete](https://youtu.be/f_vWIMeQid0)
+6. [Subnetting: calcolo rapido dell'indirizzamento nelle reti](https://youtu.be/H2exPjYeUhM)
 
 ---
 
