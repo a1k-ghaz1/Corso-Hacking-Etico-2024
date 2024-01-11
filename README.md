@@ -43,20 +43,20 @@ STRUTTURA DEL CORSO:
 ---
 
 # CONFIGURAZIONE DI LABORATORI LOCALI IN DOCKER
-21. Docker: Installazione, Dockerfile, Creazione e distribuzione di un contenitore https://youtu.be/IxjCRhUktwo?si=50EsfB_p0NI8Fske
-22. Comandi comuni, Port Forwarding e mount nei contenitori https://youtu.be/nAtPNrFJjbE?si=CwNhl_zr-aA0HlrV
-23. Distribuzione di macchine vulnerabili con Docker-Compose Kibana https://youtu.be/IFHTiE9Hybo?si=u-1e41eITCwiABie
-24. Distribuzione di macchine vulnerabili con Docker-Compose ImageMagick https://youtu.be/UdN7B9ac3hQ
+21. [Docker: Installazione, Dockerfile, Creazione e distribuzione di un contenitore](https://youtu.be/IxjCRhUktwo?si=50EsfB_p0NI8Fske)
+22. [Comandi comuni, Port Forwarding e mount nei contenitori](https://youtu.be/nAtPNrFJjbE?si=CwNhl_zr-aA0HlrV)
+23. [Distribuzione di macchine vulnerabili con Docker-Compose Kibana](https://youtu.be/IFHTiE9Hybo?si=u-1e41eITCwiABie)
+24. [Distribuzione di macchine vulnerabili con Docker-Compose ImageMagick](https://youtu.be/UdN7B9ac3hQ)
 
 ---
 
 # ENUMERAZIONE DI SERVIZI COMUNI E GESTORI DI CONTENUTI
-25. Enumerazione del servizio FTP https://youtu.be/C7I8cdHhl6E
-26. Enumerazione del servizio SSH https://youtu.be/RO-4mf-SkGA
-27. Enumerazione dei servizi HTTP e HTTPS https://youtu.be/aTYWNTD964c
-28. Enumerazione dei servizi SMB https://youtu.be/8xmKqxf7QcQ
-29. (CMS) – WordPress Enumerazione https://youtu.be/wxk6bqRteuM?si=rC_UsatZS2OSiOlc
-30. (CMS) – WordPress Explotazione Manuale https://youtu.be/fWiZFS2ughc?si=7Qt1UMiDrdA_BL_a
+25. [Enumerazione del servizio FTP](https://youtu.be/C7I8cdHhl6E)
+26. [Enumerazione del servizio SSH](https://youtu.be/RO-4mf-SkGA)
+27. [Enumerazione dei servizi HTTP e HTTPS](https://youtu.be/aTYWNTD964c)
+28. [Enumerazione dei servizi SMB](https://youtu.be/8xmKqxf7QcQ)
+29. [(CMS) – WordPress Enumerazione](https://youtu.be/wxk6bqRteuM?si=rC_UsatZS2OSiOlc)
+30. [(CMS) – WordPress Explotazione Manuale](https://youtu.be/fWiZFS2ughc?si=7Qt1UMiDrdA_BL_a)
 31. (CMS) – Joomla Enumerazione
 32. (CMS) – Drupal Enumerazione
 33. (CMS) – Magento Enumerazione
