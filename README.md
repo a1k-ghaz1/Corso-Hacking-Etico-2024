@@ -4,7 +4,7 @@
 
 ---
 
-### Rimanete aggiornati sui nostri social:
+### *Rimanete aggiornati sui nostri social:*
 - [Discord Offensive Security Italia](https://discord.gg/FEjgBMdAeA)
 - [Twitter Roby7979](https://twitter.com/ModernNaval)
 - [Canale Youtube Roby7979](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQ)
@@ -12,7 +12,7 @@
 
 ---
 
-STRUTTURA DEL CORSO:
+***Corso Hacking Etico 2024:***
 
 # CONCETTI DI BASE
 1. [Cosa e' un indirizzo IP(IPV4 e IPV6)](https://youtu.be/Yl9WfvqAHbM?si=oMEeoDW5USNGc4wd)
