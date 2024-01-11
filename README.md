@@ -25,20 +25,20 @@ STRUTTURA DEL CORSO:
 ---
 
 # RICONOSCIMENTO
-7. Nmap e le sue diverse modalità di scansione https://youtu.be/sYwLoexKi-Q?si=igzkWUQd2ztqAUI7
-2. Tecniche di evasione del firewall (MTU, Data Length, Source Port, Decoy, ecc.) https://youtu.be/p_oRY2Bl7yo
-3. Utilizzo di script e categorie in nmap per applicare il riconoscimento https://youtu.be/JkUN6n026RI
-4. Creare i propri script Lua per nmap https://youtu.be/2rKK0rPkvQM
-5. Alternative all'enumerazione delle porte utilizzando descrittori di file https://youtu.be/o2afi3isocU?si=bSnAhAPX0RdyQ15R
-6. Scoperta dei computer nella rete locale (ARP e ICMP) https://youtu.be/fuSdtNeg3pQ?si=pVVdbtbLYLLwFlTX
-7. Ambiente Reale Aziendale https://youtu.be/m9kdmpcADqA
-8. Scoprire account di posta elettronica e Riconoscimento delle immagini https://youtu.be/WBOZWxKnXBY?si=rFpH734pT3mL7AsO
-10. Enumerazione dei sottodomini https://youtu.be/4OaQ2eiLHvk?si=ZfhKWyD_YAFjWK8z
-11. Credenziali e violazioni della sicurezza https://youtu.be/cvTrM_WkRxw
-12. Identificazione delle tecnologie su una pagina web https://youtu.be/5QBzAYPN8lM?si=kLs_hAcSRfpZ5HzD
-13. Fuzzing con Wfuzz e Gobuster https://youtu.be/Fif1vhl8wvg?si=DX3Z4q6pTaDlZdyT
-14. Fuzzing con Burpsuite https://youtu.be/b1Iau3Bgu4k?si=j2ZYVE3FUQpB9pfC
-15. Google Dorks e Google Hacking (solo abbonati) https://youtu.be/DaHfj_RvOGA
+7. [Nmap e le sue diverse modalità di scansione](https://youtu.be/sYwLoexKi-Q?si=igzkWUQd2ztqAUI7)
+2. [Tecniche di evasione del firewall (MTU, Data Length, Source Port, Decoy, ecc.)](https://youtu.be/p_oRY2Bl7yo)
+3. [Utilizzo di script e categorie in nmap per applicare il riconoscimento](https://youtu.be/JkUN6n026RI)
+4. [Creare i propri script Lua per nmap](https://youtu.be/2rKK0rPkvQM)
+5. [Alternative all'enumerazione delle porte utilizzando descrittori di file](https://youtu.be/o2afi3isocU?si=bSnAhAPX0RdyQ15R)
+6. [Scoperta dei dispositivi nella rete locale (ARP e ICMP)](https://youtu.be/fuSdtNeg3pQ?si=pVVdbtbLYLLwFlTX)
+7. [Ambiente Reale Aziendale HACKERONE](https://youtu.be/m9kdmpcADqA)
+8. [Scoprire account di posta elettronica e Riconoscimento delle immagini](https://youtu.be/WBOZWxKnXBY?si=rFpH734pT3mL7AsO)
+10. [Enumerazione dei sottodomini](https://youtu.be/4OaQ2eiLHvk?si=ZfhKWyD_YAFjWK8z)
+11. [Credenziali e violazioni della sicurezza](https://youtu.be/cvTrM_WkRxw)
+12. [Identificazione delle tecnologie su una pagina web](https://youtu.be/5QBzAYPN8lM?si=kLs_hAcSRfpZ5HzD)
+13. [Fuzzing con Wfuzz e Gobuster](https://youtu.be/Fif1vhl8wvg?si=DX3Z4q6pTaDlZdyT)
+14. [Fuzzing con Burpsuite](https://youtu.be/b1Iau3Bgu4k?si=j2ZYVE3FUQpB9pfC)
+15. [Google Dorks e Google Hacking (solo abbonati)](https://youtu.be/DaHfj_RvOGA)
 
 ---
 
