@@ -58,9 +58,9 @@
 28. [Enumerazione dei servizi SMB](https://youtu.be/8xmKqxf7QcQ)
 29. [(CMS) – WordPress Enumerazione](https://youtu.be/wxk6bqRteuM?si=rC_UsatZS2OSiOlc)
 30. [(CMS) – WordPress Explotazione Manuale](https://youtu.be/fWiZFS2ughc?si=7Qt1UMiDrdA_BL_a)
-31. (CMS) – Joomla Enumerazione
-32. (CMS) – Drupal Enumerazione
-33. (CMS) – Magento Enumerazione
+31. [(CMS) – Joomla Enumerazione](https://youtu.be/-upMV7-_alY?si=-EeD3Q89LVRBdCup)
+32. [(CMS) – Drupal Enumerazione](https://youtu.be/5cUKqziGswY?si=e1LLOoV5xOi_oph3)
+33. [(CMS) – Magento Enumerazione](https://youtu.be/l7tJssJiMQs?si=PR5wgXHsKRvcV29l)
 34. Obsidian prendere appunti
 
 ---
