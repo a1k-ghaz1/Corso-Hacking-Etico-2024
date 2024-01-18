@@ -61,7 +61,7 @@
 31. [(CMS) – Joomla Enumerazione](https://youtu.be/-upMV7-_alY?si=-EeD3Q89LVRBdCup)
 32. [(CMS) – Drupal Enumerazione](https://youtu.be/5cUKqziGswY?si=e1LLOoV5xOi_oph3)
 33. [(CMS) – Magento Enumerazione](https://youtu.be/l7tJssJiMQs?si=PR5wgXHsKRvcV29l)
-34. Obsidian prendere appunti
+34. [Obsidian prendere appunti](https://youtu.be/s1wm6cpiK0s)
 
 ---
 
