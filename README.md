@@ -75,43 +75,43 @@
 ---
 
 # OWASP TOP 10 E VULNERABILITA' WEB
-41. Iniezione SQL (SQLI)
-42. Cross-Site Scripting (XSS) 
-44. Iniezione di entità esterne XML (XXE)
-45. Local File Inclusion (LFI)
-46. Remote File Inclusion (RFI)
-47. Log Poisoning (LFI -> RCE)
-48. Falsificazione di richieste tra siti (CSRF)
-49. Falsificazione di richieste lato server (SSRF)
-50. Iniezione di modelli lato server (SSTI)
-51. Iniezione di modelli lato client (CSTI)
-52. Imbottitura Oracle Attack
-53. Tipo Attacco di giocoleria
-54. Iniezioni NoSQL
-55. Iniezioni LDAP
-56. Attacchi di deserializzazione
-57. Iniezioni di LaTeX
-58. Abuso dell'API
-59. Abuso di caricamento di file
-60. Prototipo Inquinamento
-61. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer)
-62. Attacchi di assegnazione di massa / associazione di parametri
-63. Apri Reindirizzamento
-64. Enumerazione e sfruttamento WebDAV
-65. Enumerazione e sfruttamento dei proxy SQUID
-66. Attacco Shell Shock
-67. Iniezioni di XPath
-68. Riferimenti diretti a oggetti non sicuri (IDOR)
-69. Condivisione delle risorse tra le origini (CORS)
-70. Attacco SQL Truncation
-71. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione
-72. Enumerazione e sfruttamento di Json Web Tokens (JWT)
-73. Condizioni di gara (Race Condition)
-74. Iniezioni di CSS (CSSI)
-75. Python – Attacco di deserializzazione Yaml (DES-Yaml)
-76. Python – Attacco di deserializzazione Pickle (DES-Pickle)
-77. GraphQL Introspezione, Mutazioni e IDOR
-
+40. Iniezione SQL (SQLI)
+41. Cross-Site Scripting (XSS) 
+42. Iniezione di entità esterne XML (XXE)
+43. Local File Inclusion (LFI)
+44. Remote File Inclusion (RFI)
+45. Log Poisoning (LFI -> RCE)
+46. Falsificazione di richieste tra siti (CSRF)
+47. Falsificazione di richieste lato server (SSRF)
+48. Iniezione di modelli lato server (SSTI)
+49. Iniezione di modelli lato client (CSTI)
+50. Imbottitura Oracle Attack
+51. Tipo Attacco di giocoleria
+52. Iniezioni NoSQL
+53. Iniezioni LDAP
+54. Attacchi di deserializzazione
+55. Iniezioni di LaTeX
+56. Abuso dell'API
+57. Abuso di caricamento di file
+58. Prototipo Inquinamento
+59. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer)
+60. Attacchi di assegnazione di massa / associazione di parametri
+61. Apri Reindirizzamento
+62. Enumerazione e sfruttamento WebDAV
+63. Enumerazione e sfruttamento dei proxy SQUID
+64. Attacco Shell Shock
+65. Iniezioni di XPath
+66. Riferimenti diretti a oggetti non sicuri (IDOR)
+67. Condivisione delle risorse tra le origini (CORS)
+68. Attacco SQL Truncation
+69. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione
+70. Enumerazione e sfruttamento di Json Web Tokens (JWT)
+71. Condizioni di gara (Race Condition)
+72. Iniezioni di CSS (CSSI)
+73. Python – Attacco di deserializzazione Yaml (DES-Yaml)
+74. Python – Attacco di deserializzazione Pickle (DES-Pickle)
+75. GraphQL Introspezione, Mutazioni e IDOR
+    
 ---
 
 # TECNINCHE DI SCALATA DI PRIVILEGI
