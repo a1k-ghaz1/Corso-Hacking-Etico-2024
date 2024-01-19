@@ -66,8 +66,8 @@
 ---
 
 # NOZIONI DI BASE SU ENUMERAZIONE E SFRUTTAMENTO 
-35. Introduzione alla explotazione e Reverse Shells, Bind Shells, Forward Shells
-36. Tipi di payload (organizzati e non organizzati)
+35. [Introduzione alla explotazione e Reverse Shells, Bind Shells, Forward Shells](https://youtu.be/HIMsUqdtpW4?si=8iSFmx60E2dZTpIS)
+36. [Tipi di payload](https://youtu.be/QbkisKsWs7k?si=QLaMbe_U-pCUA7bj)
 37. Tipi di sfruttamento (manuale e automatizzato)
 38. Enumerazione del sistema
 39. Introduzione a Burp Suite
